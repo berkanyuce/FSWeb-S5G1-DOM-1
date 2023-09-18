@@ -16,34 +16,34 @@ Tanımlanan nesnenin aşağısında gerekli DOM manipülasyonlarını gerçekle�
 
 ## Git Kurulumu
 
-* [ ] Forklayarak bir kopya oluşturun.
-* [ ] Repository'nin kendi forkladığınız versiyonunu klonlayın.
-* [ ] Commit'inizi pushlayın: `git push origin main`.
+* [x] Forklayarak bir kopya oluşturun.
+* [x] Repository'nin kendi forkladığınız versiyonunu klonlayın.
+* [x] Commit'inizi pushlayın: `git push origin main`.
 
 ## Projeyi çalıştırma
 
-* [ ] `npm install` komutuyla projenin bağlı dosyalarını indirebilirsiniz.
-* [ ] `npm start` komutuyla sayfayı deploy edebilirsiniz: `http://localhost:3000`.
-* [ ] Terminal ekranını split ederek 2. bir terminal ekranı daha açınız.
-* [ ] `npm test` komutuyla kodlarınızı test edebilirsiniz (yeni bir terminal penceresine ihtiyacınız var).
+* [x] `npm install` komutuyla projenin bağlı dosyalarını indirebilirsiniz.
+* [x] `npm start` komutuyla sayfayı deploy edebilirsiniz: `http://localhost:3000`.
+* [x] Terminal ekranını split ederek 2. bir terminal ekranı daha açınız.
+* [x] `npm test` komutuyla kodlarınızı test edebilirsiniz (yeni bir terminal penceresine ihtiyacınız var).
 
 ## Minimum Uygulanabilir Ürün
 
 ### İlgili öğelere erişmek için seçiciler(selectors) oluşturun
 
-* [ ] Öğrendiğiniz seçicilerden herhangi birini kullanarak ilgili DOM öğelerini düzenleyebileceğiniz değişkenleri tanımlayın.
+* [x] Öğrendiğiniz seçicilerden herhangi birini kullanarak ilgili DOM öğelerini düzenleyebileceğiniz değişkenleri tanımlayın.
 
 ### Metin içeriği ekle
 
-* [ ] Seçicilerinizi(selector) kullanarak ilgili öğelerin metin içeriklerini tasarım dosyasıyla eşleştirerek güncelleyin.
-* [ ] Elementler için gerekli text metinleri nesnenin içerisinden bulun; `src/index.js`.
+* [x] Seçicilerinizi(selector) kullanarak ilgili öğelerin metin içeriklerini tasarım dosyasıyla eşleştirerek güncelleyin.
+* [x] Elementler için gerekli text metinleri nesnenin içerisinden bulun; `src/index.js`.
 
 ### Sınıf(class) adları ekleyin
 
-* [ ] (menü içindeki) öğeleri italic(yatay) yapmak için class'ına `italic` atayın ve yalnız bırakın.
-* [ ] (footer içindeki) öğelerin bold(kalın) görünmesi için class'ına `bold` atayın ve yalnız bırakın.
+* [x] (menü içindeki) öğeleri italic(yatay) yapmak için class'ına `italic` atayın ve yalnız bırakın.
+* [x] (footer içindeki) öğelerin bold(kalın) görünmesi için class'ına `bold` atayın ve yalnız bırakın.
 
 ### Resim kaynakları ekleyin
 
-* [ ] Sayfadaki img etiketlerinin `src` özniteliğini düzenleyerek doğru resimleri göstermesini sağlayın.
-* [ ] "src/index.js" sayfasındaki veri nesnesinin içindeki doğru resimlerin URL'lerini bulup,kullanın.
+* [x] Sayfadaki img etiketlerinin `src` özniteliğini düzenleyerek doğru resimleri göstermesini sağlayın.
+* [x] "src/index.js" sayfasındaki veri nesnesinin içindeki doğru resimlerin URL'lerini bulup,kullanın.
